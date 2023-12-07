@@ -1,11 +1,14 @@
 
 ## How to clone and play
 
+https://github.com/Nalgrin/Final-Project-Office-Escape.git
+
 git clone https://github.com/Nalgrin/Final-Project-Office-Escape.git
 
 pip install pgzero
 
 pgzrun main.py
+
 
 
 ## Office Escape
