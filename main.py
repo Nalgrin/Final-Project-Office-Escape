@@ -157,7 +157,7 @@ def draw():
     if game_state.state == GAME_STATE_TITLE:
         title.draw()
         screen.draw.text("Office Escape", (300, 100), color="white", owidth=1.5, ocolor="black", fontname="hemi head bd it.otf", fontsize=70, align="center")
-        screen.draw.textbox("how to play lkjfkldsjfd\nsaslkfjd\nfaslkfjasd\nfasdlkfjasdlkfsadjf laskfj sdalfkasjflasdkfjasdlfkjsadf lasdkjf dsalfkjsadlfksdaj kdfjkfjdf kdsfkdsjf sdlfksdk dkfj dskfsjf lsdkf lskdjf sldkfjs\ndajshdjsadhadas", Rect(0, 200, WIDTH, HEIGHT-400), color="yellow", owidth=1.0, ocolor="black", fontname="hemi head bd it.otf", align="center")
+        screen.draw.textbox("How You Play: \nJump over the desks so you don't lose.\n If you hit a lamp you lose one of your lives\n Make sure to collect those staplers you see to gain points", Rect(0, 200, WIDTH, HEIGHT-400), color="yellow", owidth=1.0, ocolor="black", fontname="hemi head bd it.otf", align="center")
         screen.draw.text("Press enter to start",  (300, 600), color="yellow", owidth=1.0, ocolor="black", fontname="hemi head bd it.otf", fontsize=30, align="center")
         return
 
