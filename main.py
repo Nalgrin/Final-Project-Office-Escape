@@ -171,8 +171,6 @@ def draw():
     player.draw()
     for desk in desks:
         desk.draw()
-#        screen.draw.filled_rect(Rect(desk.left+20, desk.top+20, desk.width-40, desk.height-20), (128, 128, 128))
-
     stapler.draw()
     lamp.draw()
     boss.draw()
