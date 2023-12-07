@@ -1,7 +1,7 @@
 
 ## How to clone and play
 
-https://github.com/Nalgrin/Final-Project-Office-Escape.git
+Download https://git-scm.com/download/win
 
 git clone https://github.com/Nalgrin/Final-Project-Office-Escape.git
 
