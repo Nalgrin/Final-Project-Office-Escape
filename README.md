@@ -24,7 +24,7 @@ Caption 2: game. Press enter to start
   btnReset hidden	
   btnQuit hidden
   All sprites shown
-  score and timer reset
+  score and health reset
 
 Quit
 	Game ends
@@ -80,7 +80,7 @@ Shows when paused and when the game ends
 When clicked game goes back to the gameplay state
 Hide buttons
 Shows all sprites 
-Restart score and timer 
+Restart score and health 
 	
 ## BtnQuit
 Appears on pause and when the game ends
